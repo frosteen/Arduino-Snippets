@@ -1,0 +1,2 @@
+How to run 57 hard real-time threads on an Arduino Uno:
+https://www.youtube.com/watch?v=59oS82EKz9w
